@@ -6,4 +6,10 @@
 
 5. The Apache License does not grant rights to use the Android trademark (like the GPL license would), but it allows free software to be used with proprietary software, so the Android operating system can be used with proprietary software. The Apache License also allows sublicensing, whereas the GPL license does not. 
 
-7. For a developer, any of the three licenses are good. GPL requires that derivatives of the original work be distributed under the same terms as the original, so no one can take the developer's work and make it proprietary; it also requires that anyone who uses the software state its source. LGPL allows the developer to use free software with their proprietary software. An Apache license will prevent anyone from using any trademark that the developer creates. Like the GPL, it requires that changes made to the original are stated and there is no liability. For a company, Apache is good because it allows sublicensing but does not allow users to use the company's trademark. For the common good, GPL is the best because anyone can use, modify, and redistribute the software and any derivative is required to be free software. It prevents anyone from taking the software and making it proprietary.
+6. GPL  
+
+7. For a developer, any of the three licenses are good. GPL requires that derivatives of the original work be distributed under the same terms as the original, so no one can take the developer's work and make it proprietary; it also requires that anyone who uses the software state its source. LGPL allows the developer to use free software with their proprietary software. An Apache license will prevent anyone from using any trademark that the developer creates. Like the GPL, it requires that changes made to the original are stated and there is no liability. For a company, Apache is good because it does not allow users to use the company's trademark. LGPL is also good for companies if they want to use free software with their proprietary software. For the common good, GPL is the best because anyone can use, modify, and redistribute the software and any derivative is required to be free software. It prevents anyone from taking the software and making it proprietary.
+
+8. simple, copyleft
+
+9. 
