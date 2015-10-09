@@ -1,0 +1,1 @@
+We modified the project.spec.js file for issue 206 to check that past projects api endpoint returns an array. 
